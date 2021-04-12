@@ -1,0 +1,6 @@
+Person
+Place
+Context
+Event
+Organization
+Time
